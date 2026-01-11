@@ -1,59 +1,44 @@
-# Hi everyone!! My name is Rohit Yadav
+# Hi, I’m Rohit 👋
 
-## Data Analytics · Data Science · Applied Machine Learning
+## Data Analytics | Data Science | Applied Machine Learning
 
-I am a data professional with experience across data analytics, data science, and applied machine learning, focused on building analytical systems that translate data into measurable business and operational outcomes.
+I am a data professional focused on building **practical, impact-driven analytics and data science solutions** that translate data into real business decisions.
 
-I am currently pursuing a Master of Science in Information Management at the University of Illinois at Urbana-Champaign, where my academic work emphasizes statistical analysis, data modeling, business intelligence, data warehousing, and data visualization. Alongside coursework, I actively build end-to-end projects that mirror real-world data problems rather than academic exercises.
-
-Previously, I worked as a Data Scientist at Siemens, where I developed and operationalized machine learning models on large-scale industrial and IoT data. My work included time-series forecasting, anomaly detection, data pipeline orchestration, and KPI monitoring. These solutions were used in production environments and contributed to reduced unplanned downtime, improved data reliability, and faster issue resolution. I regularly collaborated with engineering and business stakeholders to ensure analytical outputs translated into actionable decisions.
-
-More recently, I worked as a Pricing and Data Analyst Intern at International Motors, analyzing 10M+ records using Hadoop SQL to support pricing strategy and decision-making. I built analytical models and dashboards consumed by Sales and Finance teams, validated model outputs against historical benchmarks, standardized pricing datasets, and contributed to improvements in pricing efficiency, forecast reliability, and contract margins. This role strengthened my interest in analytics that sit at the intersection of data, business strategy, and systems.
+🎓 **MS in Information Management** at the University of Illinois at Urbana-Champaign  
+💼 Former **Data Scientist at Siemens** | **Pricing & Data Analyst Intern at International Motors**
 
 ---
 
-## What You’ll Find in This GitHub
+## What I Work On 🚀
 
-This GitHub serves as a portfolio of applied data projects that reflect how I approach real data problems:
+- **Causal inference & experimentation**  
+  A/B testing, causal impact analysis, and uplift modeling to measure true treatment effects and optimize decisions.
 
-- Causal inference and experimentation  
-  Projects involving A/B testing, causal impact analysis, and uplift modeling to estimate true treatment effects and optimize decision-making.
+- **Data modeling & SQL analytics**  
+  Relational database design, analytical querying, and data integrity for scalable analytics.
 
-- Relational database design and SQL analytics  
-  End-to-end database modeling, schema design, and analytical querying with a strong emphasis on data integrity and performance.
+- **Analytics automation & platforms**  
+  Data pipelines, APIs, and BI dashboards that reduce manual workflows and bring insights closer to stakeholders.
 
-- Analytics automation and data platforms  
-  Projects that integrate data pipelines, APIs, and BI tools to move insights closer to stakeholders and reduce manual workflows.
+- **Many more coming up soon!**  
+  
+---
 
-Each repository includes clear documentation, reproducible analysis, and an emphasis on realistic assumptions and measurable outcomes.
+## Tech Stack 🛠️
+
+**Python · SQL · BigQuery · Hadoop · Power BI · Statistics · Experimentation · Data Modeling**
 
 ---
 
-## Technical Focus
+## How to Navigate This GitHub 👇
 
-I am most comfortable working with:
-- Python and SQL for analysis, modeling, and data processing  
-- Relational databases and data warehouses for structured analytics  
-- Big data and ETL systems for scalable data handling  
-- Business intelligence and visualization tools for decision support  
-
-I value clarity, robustness, and explainability over unnecessary complexity, and I prioritize solutions that can be deployed, maintained, and understood by others.
+- Each repository includes a **clear README** explaining the problem, approach, and results  
+- Projects emphasize **realistic assumptions, measurable impact, and reproducibility**  
+- Code is written with **clarity and structure**, not just correctness
 
 ---
 
-## Areas of Interest
+## Interests 🎯
 
-I am particularly interested in roles related to:
-- Data Analytics  
-- Data Science  
-- Data Engineering  
+I’m particularly interested in **Data Analyst, Data Scientist, and Data Engineer** roles where data is used to **drive decisions, improve systems, and scale impact**.
 
-Especially in environments where data is used not only to report outcomes, but to influence decisions, improve systems, and drive measurable impact at scale.
-
----
-
-## Notes for Reviewers
-
-- Each project repository contains a detailed README explaining the problem, approach, tools, and results.  
-- Metrics reported are realistic, defensible, and based on analytical evaluation rather than hypothetical claims.  
-- The code emphasizes structure, readability, and reproducibility.
