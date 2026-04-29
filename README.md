@@ -1,11 +1,11 @@
 # Hi, I’m Rohit 👋
 
-## Data Analytics | Data Science | Applied Machine Learning
+## Software Engineering | Data Science | Applied Machine Learning
 
 I am a data professional focused on building **practical, impact-driven analytics and data science solutions** that translate data into real business decisions.
 
-🎓 **MS in Information Management** at the University of Illinois at Urbana-Champaign  
-💼 Former **Data Scientist at Siemens** | **Pricing & Data Analyst Intern at International Motors**
+🎓 **MS in Information Systems** at the University of Illinois at Urbana-Champaign  
+💼 Former **Software Engineer at Siemens** | **Pricing & Data Engineer Intern at International Motors**
 
 ---
 
